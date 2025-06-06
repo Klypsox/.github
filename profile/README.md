@@ -16,6 +16,6 @@ Klypsox is a dynamic IT team 💡 dedicated to delivering innovative software so
 ## 📬 Contact Us
 - **Email**: team@klypsox.com *** ✉️ 
 - **GitHub**: [Klypsox](https://github.com/klypsox) 🧑‍💻
-- **Website**: [klypsox.com](https://***.com) 🌐
+- **Website**: [klypsox.com](https://about-klypsox.netlify.app) 🌐
  
 We’re excited to collaborate and build the future of technology together! 🚀🤖
